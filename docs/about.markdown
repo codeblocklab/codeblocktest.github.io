@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
+## H2 Introduction
 
 Find more about us on [codeblocklab.com](https://codeblocklab.com).
 
