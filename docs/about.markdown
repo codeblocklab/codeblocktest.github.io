@@ -11,6 +11,25 @@ I specialize in delivering IT services focused on cloud infrastructure, automati
 **Cloud & Infrastructure:**
   * All major cloud providers (AWS, GPC, Azure)
   
+**Infrastructure as Code & Automation:**
+  * Terraform (multi-cloud, modular design, remote state)
+  * Ansible, Bash scripting
+
+**Containers & Orchestration:**
+  * Docker, Kubernetes (EKS, GKE, self-hosted)
+  
+**CI/CD & GitOps:**
+  * GitHub Actions, ArgoCD, Atlantis
+  
+**Monitoring & Security:**
+  * CrowdStrike Falcon, SIEM pipelines
+  * IAM policies, SSO integrations (Okta, Keycloak, Jumpcloud)
+  
+**Practices:**
+  * DevOps, GitOps, Shift-left security, Cloud-native
+  
+
+  
 
 
 
