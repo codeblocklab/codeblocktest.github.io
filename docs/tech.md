@@ -25,7 +25,6 @@ permalink: /tech
 {% endfor %}
 
 
-# 3
 
 ## Cloud Platforms & Administration
 - AWS
