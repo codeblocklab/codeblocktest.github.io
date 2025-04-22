@@ -10,12 +10,5 @@ This page is dedicated to present our technical skills, describe usecases and ou
 
 #### Skills
 
-{% for sk in site.skills %}
-  <h2>
-    <a href="{{ sk.url }}">
-      {{ sk.name }} - {{ sk.title }}
-    </a>
-  </h2>
-  <p>{{ sk.content | markdownify | truncate: 100 }}</p>
-{% endfor %}
-scokolwiek jeszcze cokolwiek 
+tu bedzie link do podstrony z umiejestnosciami
+

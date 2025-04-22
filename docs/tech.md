@@ -5,11 +5,27 @@ permalink: /tech
 ---
 
 
+# 1
+
 {% for sk in site.skills %}
   <h2>{{ sk.name }}</h2>
   <p>{{ sk.content | markdownify }}</p>
 {% endfor %}
 
+
+### 2
+
+{% for sk in site.skills %}
+  <h2>
+    <a href="{{ sk.url }}">
+      {{ sk.name }} - {{ sk.title }}
+    </a>
+  </h2>
+  <p>{{ sk.content | markdownify | truncate: 100 }}</p>
+{% endfor %}
+
+
+# 3
 
 ## Cloud Platforms & Administration
 - AWS
