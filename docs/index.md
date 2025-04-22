@@ -12,4 +12,4 @@ This page is dedicated to present our technical skills, describe usecases and ou
 
 tu bedzie link do podstrony z umiejestnosciami
 
-[!cat](images/image1.png)
+![cat](images/image1.png)
